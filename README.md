@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -30,3 +31,6 @@
     
 </body>
 </html>
+=======
+# my-first-website
+>>>>>>> dfa9855aea32f6e9a8e3fda6d9321d8168ba0fd3
